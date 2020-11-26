@@ -1,0 +1,73 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled1.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyNh230w3A3yBQiF5WmryHAh",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/ryu-jihye/Use-Public-information/blob/main/example_colab\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "78IL85kKXWj2"
+      },
+      "source": [
+        ""
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "h8U1M0WPYJPX",
+        "outputId": "1469802b-0959-4e5f-fec4-54ad41b16012"
+      },
+      "source": [
+        "print(\"hello\")"
+      ],
+      "execution_count": 1,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "hello\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "s3r9jvfQYMJs"
+      },
+      "source": [
+        ""
+      ],
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
